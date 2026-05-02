@@ -9,7 +9,7 @@
 adult
 <br>
 <br>
-<img src="https://github.com/beatpopgirlathon/beatpopgirlathon/blob/main/stamp.png"><img src="https://github.com/beatpopgirlathon/beatpopgirlathon/blob/main/IMG_1802.png"><img src="https://github.com/beatpopgirlathon/beatpopgirlathon/blob/main/IMG_0967.gif">
+<img src="https://github.com/beatpopgirlathon/beatpopgirlathon/blob/main/IMG_1802.png">
 <img src="https://github.com/beatpopgirlathon/beatpopgirlathon/blob/main/IMG_0208.gif"> 
 
 
